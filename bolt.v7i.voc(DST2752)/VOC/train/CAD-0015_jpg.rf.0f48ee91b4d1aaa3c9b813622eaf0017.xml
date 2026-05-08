@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>CAD-0015_jpg.rf.0f48ee91b4d1aaa3c9b813622eaf0017.jpg</filename>
+	<path>CAD-0015_jpg.rf.0f48ee91b4d1aaa3c9b813622eaf0017.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>407</xmin>
+			<xmax>468</xmax>
+			<ymin>383</ymin>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>202</xmin>
+			<xmax>261</xmax>
+			<ymin>431</ymin>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>370</xmin>
+			<xmax>431</xmax>
+			<ymin>111</ymin>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>229</xmax>
+			<ymin>151</ymin>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,7 @@
+path: ../datasets/weed(DST1274) # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/valid # val images (relative to 'path') 4 images
+test: images/test # test images (optional)
+nc: 8
+names: ['asthma-plant', 'beggars-tick', 'crab-grass', 'dog-s-tongue', 'goatweed', 'hagonoy', 'nut-grass', 'shameplant']
+

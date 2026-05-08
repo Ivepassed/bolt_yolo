@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>AUT-0202_jpg.rf.68eb724b0f4e962a1b6bc9e28a0a524b.jpg</filename>
+	<path>AUT-0202_jpg.rf.68eb724b0f4e962a1b6bc9e28a0a524b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>339</xmin>
+			<xmax>406</xmax>
+			<ymin>306</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>358</xmin>
+			<xmax>420</xmax>
+			<ymin>177</ymin>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

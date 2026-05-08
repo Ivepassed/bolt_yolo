@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>openmv-461-_png.rf.10d93f7a46d5e3c542d8ff248e4b0160.jpg</filename>
+	<path>openmv-461-_png.rf.10d93f7a46d5e3c542d8ff248e4b0160.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Missing bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>163</xmax>
+			<ymin>121</ymin>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>300</xmin>
+			<xmax>492</xmax>
+			<ymin>138</ymin>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

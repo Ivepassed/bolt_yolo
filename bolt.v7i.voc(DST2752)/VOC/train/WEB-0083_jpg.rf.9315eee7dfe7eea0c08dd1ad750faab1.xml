@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WEB-0083_jpg.rf.9315eee7dfe7eea0c08dd1ad750faab1.jpg</filename>
+	<path>WEB-0083_jpg.rf.9315eee7dfe7eea0c08dd1ad750faab1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>208</xmin>
+			<xmax>300</xmax>
+			<ymin>328</ymin>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

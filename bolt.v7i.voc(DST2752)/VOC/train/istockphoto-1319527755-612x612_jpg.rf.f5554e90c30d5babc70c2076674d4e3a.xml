@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>istockphoto-1319527755-612x612_jpg.rf.f5554e90c30d5babc70c2076674d4e3a.jpg</filename>
+	<path>istockphoto-1319527755-612x612_jpg.rf.f5554e90c30d5babc70c2076674d4e3a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>317</xmin>
+			<xmax>453</xmax>
+			<ymin>221</ymin>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>56</xmax>
+			<ymin>122</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

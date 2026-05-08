@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WEB-0034_jpg.rf.43e7b3316244647ce91f2d4e83c606d2.jpg</filename>
+	<path>WEB-0034_jpg.rf.43e7b3316244647ce91f2d4e83c606d2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>552</xmax>
+			<ymin>1</ymin>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

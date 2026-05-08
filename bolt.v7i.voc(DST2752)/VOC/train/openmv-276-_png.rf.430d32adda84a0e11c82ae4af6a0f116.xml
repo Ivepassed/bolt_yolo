@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>openmv-276-_png.rf.430d32adda84a0e11c82ae4af6a0f116.jpg</filename>
+	<path>openmv-276-_png.rf.430d32adda84a0e11c82ae4af6a0f116.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Missing bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>68</xmax>
+			<ymin>519</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Regular bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>313</xmin>
+			<xmax>586</xmax>
+			<ymin>213</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Missing bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>65</xmax>
+			<ymin>157</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

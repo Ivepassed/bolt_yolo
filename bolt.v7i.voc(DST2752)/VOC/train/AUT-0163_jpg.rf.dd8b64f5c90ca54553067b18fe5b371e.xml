@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>AUT-0163_jpg.rf.dd8b64f5c90ca54553067b18fe5b371e.jpg</filename>
+	<path>AUT-0163_jpg.rf.dd8b64f5c90ca54553067b18fe5b371e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>297</xmin>
+			<xmax>377</xmax>
+			<ymin>472</ymin>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>293</xmin>
+			<xmax>365</xmax>
+			<ymin>113</ymin>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

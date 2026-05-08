@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rusted7_jpg.rf.74bab2d6f85f99a4e49294493ecf863c.jpg</filename>
+	<path>rusted7_jpg.rf.74bab2d6f85f99a4e49294493ecf863c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>541</xmax>
+			<ymin>83</ymin>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

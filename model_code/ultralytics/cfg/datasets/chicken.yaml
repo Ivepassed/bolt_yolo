@@ -1,0 +1,12 @@
+path: ../datasets/chicken_breed(DST1353) # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/valid # val images (relative to 'path') 4 images
+test: images/test # test images (optional)
+names:
+- PlymouthRock
+- RIR
+- Brahma
+- Wyandotte
+- Australorp
+- Leghorn
+nc: 6

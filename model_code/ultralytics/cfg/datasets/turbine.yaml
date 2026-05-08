@@ -1,0 +1,39 @@
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../datasets/turbine # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/valid # val images (relative to 'path') 4 images
+test: images/test # test images (optional)
+# names:
+# - '2'
+# - '1'
+# - '8'
+# - '0'
+# - '6'
+# - '4'
+# - '7'
+# - '9'
+# - '3'
+# - '5'
+
+# names:
+# - 'q'
+# - 'b'
+# - 'c'
+# - 'd'
+# - 'e'
+# - 'f'
+# - 'g'
+# - 'h'
+# - 'i'
+# - 'j'
+# nc: 5
+
+# train: ../train/images
+# val: ../valid/images
+# test: ../test/images
+
+nc: 5
+names: ['LE-Erosion', 'LPS burnt', 'Oil Leakage', 'Paint Peel Off', 'Surface Damage']
+

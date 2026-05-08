@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>10887024_Picture18_png.rf.096f31f3811dc9d2d1c8ee0eabf4b2a6.jpg</filename>
+	<path>10887024_Picture18_png.rf.096f31f3811dc9d2d1c8ee0eabf4b2a6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>363</xmax>
+			<ymin>232</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>383</xmax>
+			<ymin>443</ymin>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>185</xmin>
+			<xmax>368</xmax>
+			<ymin>334</ymin>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

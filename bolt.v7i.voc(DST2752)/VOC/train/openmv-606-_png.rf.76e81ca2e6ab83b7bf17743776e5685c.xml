@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>openmv-606-_png.rf.76e81ca2e6ab83b7bf17743776e5685c.jpg</filename>
+	<path>openmv-606-_png.rf.76e81ca2e6ab83b7bf17743776e5685c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rusty bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>253</xmin>
+			<xmax>527</xmax>
+			<ymin>368</ymin>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Loose bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>590</xmax>
+			<ymin>362</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
