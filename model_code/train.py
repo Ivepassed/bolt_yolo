@@ -2,16 +2,15 @@ from ultralytics import YOLO
 import os
 if __name__ == '__main__':
     # Load a model
-    # model = YOLO("E:\\ultralytics-main\\yolov5n.pt")
-    model = YOLO("E:\\ultralytics-main\\yolo11n.pt")
-    # model = YOLO("E:\\ultralytics-main\\runs\\detect\\chicken\\train3\\weights\\best.pt")
+    # model = YOLO("model_code/yolov5n.pt")
+    model = YOLO("model_code/yolo11n.pt")
+    # model = YOLO("model_code/train/weights/best.pt")
 
     train_results = model.train(
-        # data="E:\\ultralytics-main\\datasets\\xxx\\data.yaml",  # path to dataset YAML
-        data="E:\\ultralytics-main\\finish_dataset\\blind_sidewalk(DST1011)\\data.yaml",  # path to dataset YAML\\data.yaml",  # path to dataset YAML
+        data="C:\\Users\\hillr\\Desktop\\bolt_yolo\\bolt.v7i.voc(DST2752)\\data.yaml",  # path to dataset YAML\\data.yaml",  # path to dataset YAML
         epochs=50,  # number of training epochs
         imgsz=640,  # training image size
-        device='cpu',  # device to run on, i.e. device=0 or device=0,1,2,3 or device=cpu
+        device='cuda:0',  # device to run on, i.e. device=0 or device=0,1,2,3 or device=cpu
         batch=8,
         amp=False,
     )

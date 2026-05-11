@@ -1,6 +1,11 @@
-names:
-- Rusty bolt
-- Loose bolt
-- Regular bolt
-- Missing bolt
+path: C:/Users/hillr/Desktop/bolt_yolo/bolt.v7i.voc(DST2752)
+
+train: images/train
+val: images/valid
+
 nc: 4
+names:
+  0: Rusty bolt
+  1: Loose bolt
+  2: Regular bolt
+  3: Missing bolt
