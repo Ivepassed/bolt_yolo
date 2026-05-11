@@ -1,5 +1,9 @@
 from ultralytics import YOLO
+import torch
+
+torch.cuda.init()
 import os
+
 if __name__ == '__main__':
     # Load a model
     # model = YOLO("model_code/yolov5n.pt")
@@ -7,10 +11,13 @@ if __name__ == '__main__':
     # model = YOLO("model_code/train/weights/best.pt")
 
     train_results = model.train(
-        data="C:\\Users\\hillr\\Desktop\\bolt_yolo\\bolt.v7i.voc(DST2752)\\data.yaml",  # path to dataset YAML\\data.yaml",  # path to dataset YAML
+        data="C:\\Users\\hillr\\Desktop\\bolt_yolo\\bolt.v7i.voc(DST2752)\\data.yaml",
+        # path to dataset YAML\\data.yaml",  # path to dataset YAML
         epochs=50,  # number of training epochs
         imgsz=640,  # training image size
-        device='cuda:0',  # device to run on, i.e. device=0 or device=0,1,2,3 or device=cpu
+        # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu'),  # device to run on, i.e. device=0 or device=0,1,2,3 or device=cpu
+        device=torch.device('cuda'),  # device to run on, i.e. device=0 or device=0,1,2,3 or device=cpu
+        # device='cpu',  # device to run on, i.e. device=0 or device=0,1,2,3 or device=cpu
         batch=8,
         amp=False,
     )
