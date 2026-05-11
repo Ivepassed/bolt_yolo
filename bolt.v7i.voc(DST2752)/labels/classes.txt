@@ -1,0 +1,4 @@
+Rusty bolt
+Loose bolt
+Regular bolt
+Missing bolt
